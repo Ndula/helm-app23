@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-16T12:39:37.468239079Z"
+    description: A Helm chart for Kubernetes
+    digest: f273089b8ae19a95256dd844b3528a3e63e49d79726335357674c1e1d7c5f5c1
+    name: myapp
+    type: application
+    urls:
+    - https://ndula.github.io/helm-app23/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-16T12:39:37.467387084Z"
